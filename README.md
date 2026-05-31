@@ -1,4 +1,6 @@
-<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ff0f430-869e-4869-99ed-159c854b6a12" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96cc119d-681b-4325-8c9a-6a503b3aa9bd" /># virtual-network-security-lab
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/e5940cc6-1536-4f0e-a42f-4d971e6a99c2" />
+
+ virtual-network-security-lab
 An isolated virtual network sandbox environment built using VirtualBox to study Linux systems administration and network diagnostics.
 
 Hands-On Project: Isolated Virtualization Sandbox & Network Security Lab
