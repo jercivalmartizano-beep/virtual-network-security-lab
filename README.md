@@ -1,4 +1,4 @@
-# virtual-network-security-lab
+<img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/1ff0f430-869e-4869-99ed-159c854b6a12" /><img width="1920" height="1080" alt="image" src="https://github.com/user-attachments/assets/96cc119d-681b-4325-8c9a-6a503b3aa9bd" /># virtual-network-security-lab
 An isolated virtual network sandbox environment built using VirtualBox to study Linux systems administration and network diagnostics.
 
 Hands-On Project: Isolated Virtualization Sandbox & Network Security Lab
@@ -57,3 +57,18 @@ Meticulous Syntax Habits: Gained deep respect for precise command syntax and fla
 Resilience in Systems Engineering: Learned that system failures (like frozen terminals, broken processes, or text-only lockouts) are standard components of infrastructure management. I built the muscle memory to switch to alternative virtual consoles (tty5/tty6), reset stuck network processes, and smoothly recover operational states.
 
 Infrastructure Visibility: Discovered firsthand how much data an unpatched server gives away over open network protocols, emphasizing why version tracking and defensive network filtering are essential in production networks.
+
+<img width="507" height="415" alt="image" src="https://github.com/user-attachments/assets/8d855439-f337-48b9-bee9-a333ce6dadef" />
+<img width="554" height="393" alt="image" src="https://github.com/user-attachments/assets/fc488b90-f856-4bc0-a4d5-ab96b214fd63" />
+<img width="552" height="419" alt="image" src="https://github.com/user-attachments/assets/e0ac92db-3c0a-465c-8316-2e28315c2762" />
+<img width="585" height="377" alt="image" src="https://github.com/user-attachments/assets/576b76e5-eecd-46bc-b879-630368e3d229" />
+<img width="589" height="373" alt="image" src="https://github.com/user-attachments/assets/0ad56830-b7f2-4456-9265-a7ce8ccf15ee" />
+<img width="629" height="388" alt="image" src="https://github.com/user-attachments/assets/101fa26a-469c-46f9-9626-099600fa09cf" />
+<img width="975" height="548" alt="image" src="https://github.com/user-attachments/assets/a89a6750-28c0-41a3-8c57-69b023aa373e" />
+<img width="725" height="408" alt="image" src="https://github.com/user-attachments/assets/9d393cc9-0e95-436f-b7e1-b0edec6dfef5" />
+<img width="720" height="585" alt="image" src="https://github.com/user-attachments/assets/8d7acc2d-a8ed-4671-928e-8be23d23196f" />
+<img width="550" height="417" alt="image" src="https://github.com/user-attachments/assets/784e86f9-902e-4aab-925b-70c41df60ca1" />
+<img width="450" height="472" alt="image" src="https://github.com/user-attachments/assets/29e96440-345f-482f-8419-15a0d38c3dd3" />
+
+<img width="629" height="388" alt="image" src="https://github.com/user-attachments/assets/1a3e79e0-2444-4a03-82d9-49f77845ab0c" />
+<img width="523" height="521" alt="image" src="https://github.com/user-attachments/assets/34ef513d-5ca9-43c5-8b33-ebca14eb13da" />
